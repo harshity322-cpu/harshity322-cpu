@@ -116,34 +116,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshity322-cpu&show_icons=true&theme=radical" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshity322-cpu&layout=compact&theme=radical" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshity322-cpu&theme=radical" width="70%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshity322-cpu&theme=radical&no-frame=true&column=7" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 *"Code is not just code. It's a way of thinking."*
