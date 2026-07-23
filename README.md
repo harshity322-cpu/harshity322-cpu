@@ -4,7 +4,11 @@
 
 ### Full Stack Developer | Turning Ideas Into Reality
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-yadav-48a0a0252/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshity322@gmail.com)
@@ -17,9 +21,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE from **Guru Nanak Dev University Regional Campus, Ludhiana**
-- 💼 Web Dev Intern @ **Propsalt Landbase Pvt Ltd** | Electronics Intern @ **Beumer Group India Pvt Ltd**
-- 🔭 Currently working on **full-stack web applications** with MERN stack
+- 🎓 B.Tech CSE from **Dronacharya College of Engineering**, Gurgaon, Haryana, India
+- 🎓 Diploma (Polytechnic) ECE from **Deen Bandhu Sir Chhotu Ram Govt. Polytechnic Education Society**, Sampla, Rohtak, Haryana, India
+- 💼 Ex-Intern @ **Propsalt Landbase Pvt Ltd** (Web Dev) | Ex-Intern @ **Beumer Group India Pvt Ltd** (Electronics)
+- 🔍 Actively looking for opportunities as a **Full Stack Developer**
 - 🌱 Learning **System Design** & **Cloud Technologies**
 - 💡 Passionate about building scalable, real-world solutions
 - ⚡ Fun fact: I debug with console.log and I'm not ashamed 😄
@@ -115,19 +120,17 @@
 
 <div align="center">
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshity322-cpu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshity322-cpu&show_icons=true&theme=radical" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshity322-cpu&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harshity322-cpu&theme=radical&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshity322-cpu&layout=compact&theme=radical" />
 
 </div>
 
----
+<div align="center">
 
-## 🐍 Contribution Graph
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshity322-cpu&theme=radical" width="70%" />
 
-![Harshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=harshity322-cpu&theme=redical&hide_border=true&color=7C3AED)
+</div>
 
 ---
 
@@ -135,7 +138,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=harshity322-cpu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=harshity322-cpu&theme=radical&no-frame=true&column=7" width="100%" />
 
 </div>
 
@@ -145,6 +148,6 @@
 
 ### 💬 *"Code is not just code. It's a way of thinking."*
 
-![Visitors](https://komarev.com/ghpvc/?username=harshity322-cpu&color=7C3AED&style=for-the-badge&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=harshity322-cpu&color=7C3AED&style=for-the-badge&label=Profile+Views" />
 
 </div>
