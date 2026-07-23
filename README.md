@@ -25,7 +25,7 @@
 - 🎓 Diploma (Polytechnic) ECE from **Deen Bandhu Sir Chhotu Ram Govt. Polytechnic Education Society**, Sampla, Rohtak, Haryana, India
 - 💼 Ex-Intern @ **Propsalt Landbase Pvt Ltd** (Web Dev) | Ex-Intern @ **Beumer Group India Pvt Ltd** (Electronics)
 - 🔍 Actively looking for opportunities as a **Full Stack Developer**
-- 🌱 Learning **System Design** & **Cloud Technologies**
+- 🌱 Learning **System Design**, **Machine Learning**, **AI** & **Cloud Technologies**
 - 💡 Passionate about building scalable, real-world solutions
 - ⚡ Fun fact: I debug with console.log and I'm not ashamed 😄
 
